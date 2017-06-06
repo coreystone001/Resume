@@ -14,7 +14,8 @@ def ping(host,numberOfPings):
         return True;
     else:
         return False;
-#use processor to run functions
+
+#use processor to run functions and setup variables
 def processor():
 
     #create a comma delimited list in Python
