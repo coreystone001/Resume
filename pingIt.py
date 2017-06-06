@@ -2,6 +2,7 @@
 Created on Jun 6, 2017
 
 @author: cstone
+Take a comma delmitted list, ping each entry every 5 minutes for 30 minutes
 '''
 import os;
 import time;
